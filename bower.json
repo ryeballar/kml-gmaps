@@ -1,0 +1,17 @@
+{
+  "name": "kml",
+  "authors": [
+    "Ryan Eballar <ryeballar@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
